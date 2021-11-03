@@ -35,7 +35,7 @@ def mini(x,y): #Drawing 4 big Circles
     tom.penup()
     tom.goto(x,y)
     tom.pendown()
-    tom.color("black", "#ffd79d")
+    tom.color("black", "#FE8447")
     tom.begin_fill()
     tom.circle(60)
     tom.end_fill()
